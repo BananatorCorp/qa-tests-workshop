@@ -2,7 +2,7 @@ TESTS LIST
 
 1.1. Source open in a new tab
 -----------------------------
-I've developped a test who clicked the first news of the list to see if it opens on a new tab, I then add a line who scan the href attribute to see if it has the right value.
+I've developped a test who clicked the first news of the list to see if it opens on a new tab, I then add a line who scan the href attribute to see if it has the right value. File name is open-new-tab.spec.js.
 No problem faced
 
 
