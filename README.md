@@ -6,7 +6,7 @@ I've developped a test who clicked the first news of the list to see if it opens
 No problem faced
 
 
-2.1. News category
+2.1. 5 news category : Top, New, Show, Ask, Job 
 
 
 
