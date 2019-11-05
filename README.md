@@ -20,7 +20,7 @@ The aim of this test is to see if you can access and change categories nevermind
 
 4.1. Current category is visually different from others
 -------------------------------------------------------
-Not done yet
+Not finished yet. File name is category-different-appearance.spec.js. I've faced a timeout error so I tried to expand the timeout limit but it didn't change anything so I just put it aside for now 
 
 
 5.1. Each category has its own page
@@ -36,7 +36,7 @@ Not done yet
 
 7.1. Current page id, total page amount and browsing with previous and next arrow must be visible on each page
 --------------------------------------------------------------------------------------------------------------
-Not done yet
+Not finished yet. File name is paging.spec.js. Maybe I'm just tired but for now I can't figure out how to make my test scan the page's id, still trying for the moment
 
 
 
