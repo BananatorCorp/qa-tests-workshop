@@ -58,8 +58,8 @@ Not done yet
 
 
 
-11.1. Each user's profile have its own page with its onw url shaped like this : /user/<username>
-------------------------------------------------------------------------------------------------
+11.1. Each user's profile have its own page with its onw url shaped like this : /user/ \<username\>
+---------------------------------------------------------------------------------------------------
 Not done yet
 
 
