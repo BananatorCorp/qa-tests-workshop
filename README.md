@@ -20,7 +20,7 @@ The aim of this test is to see if you can access and change categories nevermind
 
 4.1. Current category is visually different from others
 -------------------------------------------------------
-Not finished yet. File name is category-different-appearance.spec.js. I've faced a timeout error so I tried to expand the timeout limit but it didn't change anything so I just put it aside for now 
+Not finished yet. File name is category-different-appearance.spec.js. I've faced a timeout error so I tried to expand the timeout limit but it didn't change anything so I just put it aside for now and removed my timeout limit expander 
 
 
 5.1. Each category has its own page
@@ -30,8 +30,7 @@ I already did this one in 2.1
 
 6.1. Each list must not contain more than 500 news and must be regrouped by 20's pack
 -------------------------------------------------------------------------------------
-Not done yet
-
+Not finished yet. File name is list-item-counter.spec.js. I tried to make my test count the list but I've made a mistake and it only count up to 20 wich fullfill the second objective by the way.
 
 
 7.1. Current page id, total page amount and browsing with previous and next arrow must be visible on each page
