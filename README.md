@@ -1,13 +1,4 @@
-========Summary=======
-
-
-
-
-
-
-
-======================
-SPECIFICITIES
+TEST LIST
 
 1.1. Source open in a new tab
 
@@ -47,4 +38,41 @@ commentary number
 
 
 10.1. Clicking on the sharing username under each news display his username, number of days between his profile's 
-creation and today
+creation and today, his karma, his bio and a link to his sharings and commentaries
+
+
+
+11.1. Each user's profile have its own page with its onw url shaped like this : /user/<username>
+
+
+
+12.1. Each news must have its own commentary thread showing their total number, each commentary must show the 
+username of the user who posts it, a link to his profile and how old is the commentary
+
+
+13.1. Commentary thread can be accessed through a link on the news
+
+
+14.1. Commentary threads have their own pages with a recall of the news info
+
+
+15.1. Commentary threads can be shrinked and only shows the number of answers or expanded and shows each answers
+
+
+16.1. Each news title from Show category must start with Show HN
+
+
+17.1. News from Ask category are ony commentary thread, they doesn't open in a new tab
+
+
+
+18.1. The aggregator must be responsive
+
+
+19.1. News feed must refresh automatically
+
+
+20.1. Implementation must be HTTPS secured
+
+
+21.1. The aggregator must be fast and show each list the shortest time it can
