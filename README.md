@@ -3,16 +3,18 @@ TESTS LIST
 1.1. Source open in a new tab
 -----------------------------
 I've developped a test who clicked the first news of the list to see if it opens on a new tab, I then add a line who scan the href attribute to see if it has the right value. File name is open-new-tab.spec.js.
-No problem faced
+No problems faced
 
 
 2.1. 5 news category : Top, New, Show, Ask, Job
 -----------------------------------------------
-This test analyze all the href attribute of the navbar to see if they match the category name. It matches. File name is 5-category.spec.js. No problem faced
+This test analyze all the href attribute of the navbar to see if they match the category name. It matches. File name is 5-category.spec.js. No problems faced
 
 
 
 3.1. Categories can be accessed everywhere
+------------------------------------------
+The aim of this test is to see if you can access and change categories nevermind where you are. I've made this test possible by changing page automatically and scan if all the categories are there and accessible. File name is menu-acces-everywhere.spec.js. No problems faced
 
 
 
