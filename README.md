@@ -30,7 +30,7 @@ I already did this one in 2.1
 
 6.1. Each list must not contain more than 500 news and must be regrouped by 20's pack
 -------------------------------------------------------------------------------------
-Not finished yet. File name is list-item-counter.spec.js. I tried to make my test count the list but I've made a mistake and it only count up to 20 wich fullfill the second objective by the way.
+Not finished yet. File name is list-item-counter.spec.js. I tried to make my test count the list but I've made a mistake and it only count up to 20 wich fullfill the second objective by the way. So I've changed my line to make it count to see if news are regrouped by packs of 20 wich is the case
 
 
 7.1. Current page id, total page amount and browsing with previous and next arrow must be visible on each page
