@@ -6,7 +6,9 @@ I've developped a test who clicked the first news of the list to see if it opens
 No problem faced
 
 
-2.1. 5 news category : Top, New, Show, Ask, Job 
+2.1. 5 news category : Top, New, Show, Ask, Job
+-----------------------------------------------
+This test analyze all the href attribute of the navbar to see if they match the category name. It matches. File name is 5-category.spec.js. No problem faced
 
 
 
