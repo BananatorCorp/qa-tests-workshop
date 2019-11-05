@@ -1,15 +1,9 @@
-============About the structures of this list==============
-a.a => Aim of the test
-a.b => What did I do to make it
-a.c => Problem I faced
-
 TESTS LIST
 
 1.1. Source open in a new tab
-  
-  1.2. I've developped a test who clicked the first news of the list to see if it opens on a new tab, I then add a line who scan the href attribute to see if it has the right value
-  
-  1.3. No problem faced
+-----------------------------
+I've developped a test who clicked the first news of the list to see if it opens on a new tab, I then add a line who scan the href attribute to see if it has the right value
+No problem faced
 
 
 2.1. News category
