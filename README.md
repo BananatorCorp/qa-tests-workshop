@@ -23,7 +23,8 @@ The aim of this test is to see if you can access and change categories nevermind
 
 
 5.1. Each category has its own page
-
+-----------------------------------
+I already did this one in 2.1
 
 
 6.1. Each list must not contain more than 500 news and must be regrouped by 20's pack
